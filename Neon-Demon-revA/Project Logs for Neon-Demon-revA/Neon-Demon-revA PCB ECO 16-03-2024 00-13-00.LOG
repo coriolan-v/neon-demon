@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=VBAT_CIRCUIT New Net Name=LED_A
+Added Pin To Net: NetName=LED_K Pin=JP1-2
+Added Pin To Net: NetName=LED_K Pin=R2-2
+Added Net: Name=LED_K

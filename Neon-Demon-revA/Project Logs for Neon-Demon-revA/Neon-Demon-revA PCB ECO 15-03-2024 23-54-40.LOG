@@ -1,0 +1,12 @@
+Added Component: Designator=JP1(RESC0603X28N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CPF0201D100RE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cpf0201d100re1/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773200-1%7FA%7Fpdf%7FEnglish%7FENG_DS_1773200-1_A.pdf%7F4-2176215-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.28mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0201D100RE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0201D100RE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CPF0201D100RE1?qs=gt1LBUVyoHlmoWock10t3Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=VBAT_CIRCUIT Pin=JP1-2
+Added Member To Class: ClassName=Neon-Demon-revA Member=Component JP1 CPF0201D100RE1

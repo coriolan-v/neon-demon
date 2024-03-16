@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetR2_2 Pin=C1-2
+Added Pin To Net: NetName=NetR2_2 Pin=IC1-8
+Change Net Name : Old Net Name=+12 New Net Name=VBAT_RAW
+Change Net Name : Old Net Name=NetR2_2 New Net Name=VBAT_CIRCUIT
+Added Pin To Net: NetName=PWM Pin=IC1-5
+Added Pin To Net: NetName=PWM Pin=R1-1
+Added Net: Name=PWM

@@ -1,0 +1,10 @@
+Added Component: Designator=U?(BATHLD001THM)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/datasheet/2/238/BAT-HLD-001-THM Diagram-1175214.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Linx Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BAT-HLD-001-THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "712-BAT-HLD-001-THM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Linx-Technologies/BAT-HLD-001-THM?qs=Z0V%2FpEl%252BOGcluj3h2QTrDw%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Neon-Demon-revA Member=Component U? BAT-HLD-001-THM

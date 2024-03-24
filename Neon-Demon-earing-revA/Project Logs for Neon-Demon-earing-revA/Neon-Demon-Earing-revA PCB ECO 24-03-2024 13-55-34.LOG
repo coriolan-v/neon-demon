@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=BT?-N
+Removed Pin From Net: NetName=NetBT?_P1 Pin=BT?-P1
+Removed Pin From Net: NetName=NetBT?_P1 Pin=BT?-P2
+Removed Pin From Net: NetName=NetBT?_P1 Pin=IC?-1
+Removed Pin From Net: NetName=NetIC?_2 Pin=IC?-2
+Removed Pin From Net: NetName=GND Pin=IC?-3
+Removed Pin From Net: NetName=NetIC?_4 Pin=IC?-4
+Removed Pin From Net: NetName=NetIC?_5 Pin=IC?-5
+Removed Pin From Net: NetName=NetBT?_P1 Pin=IC?-6
+Removed Pin From Net: NetName=GND Pin=JP?-1
+Removed Pin From Net: NetName=NetBT?_P1 Pin=L?-1
+Removed Pin From Net: NetName=NetIC?_5 Pin=L?-2
+Removed Pin From Net: NetName=GND Pin=Q?-2
+Removed Pin From Net: NetName=GND Pin=R?-1
+Removed Pin From Net: NetName=NetIC?_4 Pin=R?-1
+Removed Pin From Net: NetName=NetIC?_2 Pin=R?-2
+Removed Pin From Net: NetName=NetIC?_2 Pin=R?-2
+Added Pin To Net: NetName=NetBT?_P1 Pin=BT?-P1
+Added Pin To Net: NetName=NetBT?_P1 Pin=BT?-P2
+Added Pin To Net: NetName=NetBT?_P1 Pin=IC?-1
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-2
+Added Pin To Net: NetName=NetIC?_4 Pin=IC?-4
+Added Pin To Net: NetName=NetIC?_5 Pin=IC?-5
+Added Pin To Net: NetName=NetBT?_P1 Pin=IC?-6
+Added Pin To Net: NetName=NetBT?_P1 Pin=L?-1
+Added Pin To Net: NetName=NetIC?_5 Pin=L?-2
+Added Pin To Net: NetName=NetIC?_4 Pin=R?-1
+Added Pin To Net: NetName=NetIC?_2 Pin=R?-2
+Added Pin To Net: NetName=NetIC?_2 Pin=R?-2
+Added Pin To Net: NetName=NetIC?_4 Pin=R?-2
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component R? CPF0402B100KE
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component R? CPF0402B100KE

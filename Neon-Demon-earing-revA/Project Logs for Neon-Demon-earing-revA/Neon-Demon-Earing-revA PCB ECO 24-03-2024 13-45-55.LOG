@@ -1,0 +1,13 @@
+Added Component: Designator=IC?(SOT65P210X110-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TPS61222DCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tps61222dckr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/TPS61222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS61222DCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS61222DCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61222DCKR?qs=IDSsxkoac0xpx0kmXXJcTA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component IC? MCP16251T-I_CH
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component IC? TPS61222DCKR
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component IC? ATTINY10-TSHR
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component R? CPF0402B100KE

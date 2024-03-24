@@ -1,0 +1,64 @@
+Added Component: Designator=BT?(BAT_2987)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOT65P210X110-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TPS61222DCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tps61222dckr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/TPS61222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS61222DCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TPS61222DCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61222DCKR?qs=IDSsxkoac0xpx0kmXXJcTA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=L?(INDC1608X95N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AIML-0603-4R7K-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/aiml-0603-4r7k-t/abracon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://abracon.com/Magnetics/new/AIML-0603.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AIML-0603-4R7K-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "815-AIML-0603-4R7KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ABRACON/AIML-0603-4R7K-T?qs=1vO2EIVe%252BY6wRO9cxMI0hw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X35N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cpf0402b100ke/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1786775.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CPF0402B100KE?qs=CXI0wBT1M2h4W2Gm72yIGA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X35N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cpf0402b100ke/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1786775.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CPF0402B100KE?qs=CXI0wBT1M2h4W2Gm72yIGA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X35N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cpf0402b100ke/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1786775.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CPF0402B100KE?qs=CXI0wBT1M2h4W2Gm72yIGA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT?-N
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Net: Name=3V3
+Change Class Name : Old Net Name=Neon-Demon-Earing-revA New Net Name=Neon-Demon-Earing-revB
+Added Class: Name=Neon-Demon-Earing-revA
+Added Member To Class: ClassName=Neon-Demon-Earing-revB Member=Component IC? ATTINY10-TSHR
+Added Member To Class: ClassName=Neon-Demon-Earing-revB Member=Component IC? TPS61222DCKR
+Added Member To Class: ClassName=Neon-Demon-Earing-revB Member=Component R? CPF0402B100KE
+Added Member To Class: ClassName=Neon-Demon-Earing-revB Member=Component R? CPF0402B100KE
+Added Member To Class: ClassName=Neon-Demon-Earing-revB Member=Component R? CPF0402B100KE

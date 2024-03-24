@@ -1,0 +1,12 @@
+Added Component: Designator=IC?(SOT95P280X130-5N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.torexsemi.com/file/xc9140/XC9140.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Torex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XC9140A331MR-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "865-XC9140A331MR-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Torex-Semiconductor/XC9140A331MR-G?qs=AsjdqWjXhJ9xdzTTvnj72w%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component IC? XC9140A331MR-G
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component IC? ATTINY10-TSHR
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component R? CPF0402B100KE

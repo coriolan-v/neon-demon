@@ -1,0 +1,48 @@
+Added Component: Designator=L?(INDC1608X95N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AIML-0603-4R7K-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/aiml-0603-4r7k-t/abracon?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://abracon.com/Magnetics/new/AIML-0603.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AIML-0603-4R7K-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "815-AIML-0603-4R7KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ABRACON/AIML-0603-4R7K-T?qs=1vO2EIVe%252BY6wRO9cxMI0hw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X35N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cpf0402b100ke/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1786775.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CPF0402B100KE?qs=CXI0wBT1M2h4W2Gm72yIGA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1005X35N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cpf0402b100ke/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1786775.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0402B100KE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CPF0402B100KE?qs=CXI0wBT1M2h4W2Gm72yIGA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT?-N
+Added Pin To Net: NetName=NetBT?_P1 Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=NetBT?_P1 Pin=IC?-6
+Added Pin To Net: NetName=NetBT?_P1 Pin=L?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-2
+Added Pin To Net: NetName=NetIC?_2 Pin=R?-2
+Added Pin To Net: NetName=NetIC?_2 Pin=R?-2
+Added Net: Name=NetIC?_2
+Added Pin To Net: NetName=NetIC?_4 Pin=IC?-4
+Added Pin To Net: NetName=NetIC?_4 Pin=R?-1
+Added Net: Name=NetIC?_4
+Added Pin To Net: NetName=NetIC?_5 Pin=IC?-5
+Added Pin To Net: NetName=NetIC?_5 Pin=L?-2
+Added Net: Name=NetIC?_5
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component IC? ATTINY10-TSHR
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component L? AIML-0603-4R7K-T
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component R? CPF0402B100KE
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component R? CPF0402B100KE
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component R? CPF0402B100KE

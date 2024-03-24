@@ -58,7 +58,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GVQPGZPD
 
 [Document2]
-DocumentPath=Neon-Demon-revA.PcbDoc
+DocumentPath=..\Neon-Demon-revA2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -107,6 +107,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
+
+[Document5]
+DocumentPath=..\SparkFun-Jumpers.lbr
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

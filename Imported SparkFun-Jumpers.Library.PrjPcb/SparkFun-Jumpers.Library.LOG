@@ -1,0 +1,33 @@
+Importer Log Report
+Project : SparkFun-Jumpers.Library.PrjPcb
+
+Section : Analyze Document - C:\Users\Coriolan\Documents\GitHub\neon-demon\SparkFun-Jumpers.lbr
+    Analyzing data of C:\Users\Coriolan\Documents\GitHub\neon-demon\SparkFun-Jumpers.lbr
+    Load settings
+    Load layers 147
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 22
+    ERROR: Unhandled typepackages3d
+    Load Symbols 11
+    Load DeviceSets 12
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+EndSection

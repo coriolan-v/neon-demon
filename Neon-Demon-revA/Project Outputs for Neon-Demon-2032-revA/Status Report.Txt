@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Neon-Demon-2032-revA.PrjPcb]
+   Generated File[Neon-Demon-revA2.GTO]
+   Generated File[Neon-Demon-revA2.GTP]
+   Generated File[Neon-Demon-revA2.GTS]
+   Generated File[Neon-Demon-revA2.GTL]
+   Generated File[Neon-Demon-revA2.GBL]
+   Generated File[Neon-Demon-revA2.GBS]
+   Generated File[Neon-Demon-revA2.GBP]
+   Generated File[Neon-Demon-revA2.GBO]
+   Generated File[Neon-Demon-revA2.GM3]
+   Generated File[Neon-Demon-revA2.RUL]
+   Generated File[Neon-Demon-revA2.EXTREP]
+   Generated File[Neon-Demon-revA2.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 22:10:40 On 27/03/2024

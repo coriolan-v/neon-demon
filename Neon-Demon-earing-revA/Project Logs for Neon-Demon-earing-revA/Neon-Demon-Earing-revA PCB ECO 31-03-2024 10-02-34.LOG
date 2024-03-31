@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VBAT Pin=L?-1
+Removed Pin From Net: NetName=NetIC?_5 Pin=L?-2
+Added Pin To Net: NetName=VBAT Pin=L?-1
+Added Pin To Net: NetName=NetIC?_5 Pin=L?-2
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component C? 04023A0R8CAT2A

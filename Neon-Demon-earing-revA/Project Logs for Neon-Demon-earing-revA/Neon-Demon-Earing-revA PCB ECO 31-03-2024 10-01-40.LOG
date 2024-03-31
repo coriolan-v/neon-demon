@@ -1,0 +1,12 @@
+Added Component: Designator=L?(INDC1005X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_standard_mlf1005_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK-Lambda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MLF1005G2R2JT000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "810-MLF1005G2R2JT000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/MLF1005G2R2JT000?qs=%2FPzWLGNeQ%252BhXmsvIBrs2gg%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component C? 04023A0R8CAT2A
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component IC? TPS61222DCKR
+Added Member To Class: ClassName=Neon-Demon-Earing-revA Member=Component L? MLF1005G2R2JT000

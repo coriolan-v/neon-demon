@@ -9,7 +9,7 @@ Generating : Board Shape
 
 
 Used DCodes :
-    D11
+    D12
 *************************************************************
 
 *************************************************************
@@ -130,7 +130,7 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D11
+    D12
     D28
     D29
     D30
@@ -151,7 +151,7 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D11
+    D12
     D13
     D14
     D15

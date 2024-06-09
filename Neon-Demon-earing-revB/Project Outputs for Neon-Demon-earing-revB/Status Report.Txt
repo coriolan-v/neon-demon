@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Neon-Demon-earing-revB.PrjPcb]
+   Generated File[Neon-Demon-Earing-revB.GTO]
+   Generated File[Neon-Demon-Earing-revB.GTP]
+   Generated File[Neon-Demon-Earing-revB.GTS]
+   Generated File[Neon-Demon-Earing-revB.GTL]
+   Generated File[Neon-Demon-Earing-revB.GBL]
+   Generated File[Neon-Demon-Earing-revB.GBS]
+   Generated File[Neon-Demon-Earing-revB.GBP]
+   Generated File[Neon-Demon-Earing-revB.GBO]
+   Generated File[Neon-Demon-Earing-revB.GM2]
+   Generated File[Neon-Demon-Earing-revB.RUL]
+   Generated File[Neon-Demon-Earing-revB.EXTREP]
+   Generated File[Neon-Demon-Earing-revB.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 19:43:43 On 09/06/2024

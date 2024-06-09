@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Member To Class: ClassName=Neon-Demon-Earing-revB Member=Component C? 04023A0R8CAT2A
+Added Member To Class: ClassName=Neon-Demon-Earing-revB Member=Component R? CPF0402B100KE
+Added Room: Name=Neon-Demon-Earing-revB

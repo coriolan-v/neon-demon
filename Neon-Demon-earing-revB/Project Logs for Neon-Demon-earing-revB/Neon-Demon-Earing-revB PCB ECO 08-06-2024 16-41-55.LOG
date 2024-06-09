@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=b1-N
+Added Pin To Net: NetName=VBAT Pin=b1-P1
+Added Pin To Net: NetName=VBAT Pin=b1-P2

@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Net: Name=NetQ?_3
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component IC? ATTINY25-20SSU
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component R? CPF0402B100KE
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component R? CPF0402B100KE
+Added Room: Name=Neon-Demon-Earing-revC

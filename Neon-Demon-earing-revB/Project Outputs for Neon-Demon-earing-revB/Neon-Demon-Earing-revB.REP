@@ -2,28 +2,6 @@
 FileName = Neon-Demon-Earing-revB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : Neon-Demon-Earing-revB.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-    D16
-    D24
-    D25
-    D26
-    D27
-    D28
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : Neon-Demon-Earing-revB.GBL
 
@@ -33,24 +11,24 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D25
     D26
     D27
     D28
     D29
+    D30
+    D31
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Neon-Demon-Earing-revB.GTO
+Generating : Board
+      File : Neon-Demon-Earing-revB.GM2
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Board
 
 
 Used DCodes :
-    D10
     D11
-    D12
+    D33
 *************************************************************
 
 *************************************************************
@@ -83,6 +61,39 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Neon-Demon-Earing-revB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Neon-Demon-Earing-revB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
 *************************************************************
 
 *************************************************************
@@ -97,15 +108,26 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Board
-      File : Neon-Demon-Earing-revB.GM2
+Generating : Top Layer
+      File : Neon-Demon-Earing-revB.GTL
 
-    Adding Layer      : Board
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
-    D31
+    D12
+    D13
+    D14
+    D15
+    D16
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
 *************************************************************
 
 *************************************************************
@@ -127,23 +149,6 @@ Used DCodes :
     D21
     D22
     D23
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Neon-Demon-Earing-revB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D22
-    D23
-    D30
+    D24
 *************************************************************
 

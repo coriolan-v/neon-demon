@@ -1,0 +1,10 @@
+Added Component: Designator=IC?(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ATTINY10-TS8R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/attiny10-ts8r/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589725"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ATTINY10-TS8R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "556-ATTINY10-TS8R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ATTINY10-TS8R?qs=lwdSMh1%2FoYJoa4IfQuMJgQ%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component IC? ATTINY25-20SSU

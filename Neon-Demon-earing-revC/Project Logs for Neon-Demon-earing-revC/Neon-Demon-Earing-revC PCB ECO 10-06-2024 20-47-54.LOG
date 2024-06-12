@@ -1,0 +1,13 @@
+Added Component: Designator=C?(CAPC1005X56N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.56mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0402YC104MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-0402YC104MAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/0402YC104MAT2A?qs=O2%2FeDh0sX9yiCaLwpXy1bw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component C? 04023A0R8CAT2A
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component R? CPF0402B100KE
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component R? CPF0402B100KE

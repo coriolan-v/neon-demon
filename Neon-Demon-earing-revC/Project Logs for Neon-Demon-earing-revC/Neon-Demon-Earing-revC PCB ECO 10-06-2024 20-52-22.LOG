@@ -1,0 +1,36 @@
+Added Component: Designator=Q2(SOTFL50P160X78-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MMBT2222AT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mmbt2222at/on-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/MMBT2222ATT1-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.78mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT2222AT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-MMBT2222AT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/MMBT2222AT/?qs=olBtUnqRSekpPcGAXqyohQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOTFL40P120X55-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MMBT2222AM3T5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mmbt2222am3t5g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/MMBT2222AM3-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT2222AM3T5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-MMBT2222AM3T5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/MMBT2222AM3T5G?qs=N5dOQkml4H%252BwlTOlL9%2F4UA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOTFL40P120X55-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MMBT2222AM3T5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mmbt2222am3t5g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/MMBT2222AM3-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MMBT2222AM3T5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-MMBT2222AM3T5G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/MMBT2222AM3T5G?qs=N5dOQkml4H%252BwlTOlL9%2F4UA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component C? 04023A0R8CAT2A
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component Q2 MMBT2222AT
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component Q? MMBT2222AM3T5G
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component Q? MMBT2222AM3T5G
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component R? CPF0402B100KE
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component R? CPF0402B100KE

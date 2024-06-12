@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=VBAT Pin=L?-1
+Removed Member From Class: ClassName=Neon-Demon-Earing-revC Member=R?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=PS? NewDesignator=IC2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Pin To Net: NetName=PWM Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=VBAT Pin=S?-2
+Change Net Name : Old Net Name=NetL?_2 New Net Name=NetIC2_1
+Added Pin To Net: NetName=LED_A Pin=C1-1
+Added Pin To Net: NetName=LED_A Pin=C2-2
+Added Pin To Net: NetName=LED_A Pin=IC1-5
+Added Pin To Net: NetName=LED_A Pin=IC2-4
+Added Net: Name=LED_A
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=S?-1
+Added Net: Name=NetL?_1
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component C1 04023A0R8CAT2A
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component Q? MMBT2222AM3T5G
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component R1 CPF0402B100KE
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component R2 CPF0402B100KE

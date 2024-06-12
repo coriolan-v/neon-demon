@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Neon-Demon-earing-revC.PrjPcb]
+   Generated File[Neon-Demon-Earing-revC.TXT]
+   Generated File[Neon-Demon-Earing-revC.LDP]
+   Generated File[Neon-Demon-Earing-revC.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:57:59 On 11/06/2024

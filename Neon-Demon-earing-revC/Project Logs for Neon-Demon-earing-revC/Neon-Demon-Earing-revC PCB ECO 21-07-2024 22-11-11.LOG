@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=3V3 Pin=C2-2
+Removed Member From Class: ClassName=Neon-Demon-Earing-revC Member=C2
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component BT? 2987
+Added Member To Class: ClassName=Neon-Demon-Earing-revC Member=Component JP? Normally open jumper    This jumper has two pads in close proximity to each other. Apply solder to close the connection.   Round pads are easier to solder for beginners, but are a lot larger.   SparkFun Product that uses the round pads:  SparkFun EL Sequencer

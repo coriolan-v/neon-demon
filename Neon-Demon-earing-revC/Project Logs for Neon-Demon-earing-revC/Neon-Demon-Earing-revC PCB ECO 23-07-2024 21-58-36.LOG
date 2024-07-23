@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=JP? Old Footprint=SMT-JUMPER_2_NO_SILK New Footprint=SMT-JUMPER_3_NO_SILK
+Change Component Comment : Designator=JP? Old Comment=Normally open jumper    This jumper has two pads in close proximity to each other. Apply solder to close the connection.   Round pads are easier to solder for beginners, but are a lot larger.   SparkFun Product that uses the round pads:  SparkFun EL Sequencer New Comment=Normally open jumper    This jumper has three pads in close proximity to each other. Apply solder to close the connection(s).
+Change component parameters: Designator = "JP?" ("JP?"); Footprint = "SMT-JUMPER_2_NO_SILK"; UniqueID = "\BRVYKWYL" ("\BRVYKWYL")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_NO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_NO_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_NO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Pin To Net: NetName=NetJP?_2 Pin=JP?-2
+Added Pin To Net: NetName=NetJP?_2 Pin=R2-1
+Added Net: Name=NetJP?_2
+Added Pin To Net: NetName=NetJP?_3 Pin=JP?-3
+Added Pin To Net: NetName=NetJP?_3 Pin=Q?-3
+Added Net: Name=NetJP?_3

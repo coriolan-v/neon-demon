@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=LED_A Pin=R2-1
+Added Net: Name=LED_A
+Added Pin To Net: NetName=LED_K Pin=JP?-2
+Added Net: Name=LED_K

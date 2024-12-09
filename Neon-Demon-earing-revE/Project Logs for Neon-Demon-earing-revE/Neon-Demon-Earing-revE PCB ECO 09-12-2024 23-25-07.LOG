@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=3V3 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=3V3 Pin=IC1-5
+Removed Pin From Net: NetName=GND Pin=IC2-2
+Removed Pin From Net: NetName=3V3 Pin=IC2-4
+Removed Pin From Net: NetName=GND Pin=Q?-2
+Removed Member From Class: ClassName=Neon-Demon-Earing-revE Member=C1
+Removed Member From Class: ClassName=Neon-Demon-Earing-revE Member=IC1
+Removed Member From Class: ClassName=Neon-Demon-Earing-revE Member=IC2
+Removed Member From Class: ClassName=Neon-Demon-Earing-revE Member=L?
+Removed Member From Class: ClassName=Neon-Demon-Earing-revE Member=Q?
+Removed Member From Class: ClassName=Neon-Demon-Earing-revE Member=R1
+Change Component Footprint: Designator=S? Old Footprint=CUS12TB New Footprint=461011220101
+Change Component Comment : Designator=S? Old Comment=CUS-12TB New Comment=461011220101
+Change component parameters: Designator = "S?" ("S?"); Footprint = "CUS12TB"; UniqueID = "\KGEOXAHM" ("\KGEOXAHM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/catalog/datasheet/461011220101.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "461011220101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-461011220101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/461011220101?qs=wr8lucFkNMVAdVKd0FklHQ%3D%3D"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetBT?_P1 New Net Name=VBAT_RAW
+Added Pin To Net: NetName=NetBT?_P1 Pin=BT?-P1
+Added Pin To Net: NetName=NetBT?_P1 Pin=BT?-P2
+Added Net: Name=NetBT?_P1
+Added Member To Class: ClassName=Neon-Demon-Earing-revE Member=Component BT? 2987

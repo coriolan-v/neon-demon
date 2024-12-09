@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetBT?_P1 New Net Name=VBAT_RAW
+Added Pin To Net: NetName=NetBT?_P1 Pin=BT?-P1
+Added Pin To Net: NetName=NetBT?_P1 Pin=BT?-P2
+Added Net: Name=NetBT?_P1
+Added Member To Class: ClassName=Neon-Demon-Earing-revE Member=Component BT? 2987

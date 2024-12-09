@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetBT?_P1 Pin=BT?-P1
+Added Pin To Net: NetName=NetBT?_P1 Pin=BT?-P2
+Added Net: Name=NetBT?_P1
+Change Class Name : Old Net Name=Neon-Demon-Earing-revD New Net Name=Neon-Demon-Earing-revE
+Added Member To Class: ClassName=Neon-Demon-Earing-revE Member=Component BT? 2987
+Change Room Name: Old Name=Neon-Demon-Earing-revD New Name=Neon-Demon-Earing-revE
+Change Room Scope: Old Scope=InComponentClass('Neon-Demon-Earing-revD') New Scope=InComponentClass('Neon-Demon-Earing-revE')
